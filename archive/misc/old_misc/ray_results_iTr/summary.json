@@ -1,0 +1,122 @@
+[
+  {
+    "trial_name": "lr0.0001_dm128_el1_do0.1",
+    "config_path": "ray_results_iTr\\lr0.0001_dm128_el1_do0.1\\exp_conf_trial.py",
+    "lr": 0.0001,
+    "d_model": 128,
+    "e_layers": 1,
+    "dropout": 0.1,
+    "mae": 0.7066485285758972,
+    "mse": 0.6522430181503296
+  },
+  {
+    "trial_name": "lr0.0001_dm128_el2_do0.1",
+    "config_path": "ray_results_iTr\\lr0.0001_dm128_el2_do0.1\\exp_conf_trial.py",
+    "lr": 0.0001,
+    "d_model": 128,
+    "e_layers": 2,
+    "dropout": 0.1,
+    "mae": 0.6832107305526733,
+    "mse": 0.6178973913192749
+  },
+  {
+    "trial_name": "lr0.0001_dm256_el1_do0.1",
+    "config_path": "ray_results_iTr\\lr0.0001_dm256_el1_do0.1\\exp_conf_trial.py",
+    "lr": 0.0001,
+    "d_model": 256,
+    "e_layers": 1,
+    "dropout": 0.1,
+    "mae": 0.6772682070732117,
+    "mse": 0.6141312718391418
+  },
+  {
+    "trial_name": "lr0.0001_dm256_el2_do0.1",
+    "config_path": "ray_results_iTr\\lr0.0001_dm256_el2_do0.1\\exp_conf_trial.py",
+    "lr": 0.0001,
+    "d_model": 256,
+    "e_layers": 2,
+    "dropout": 0.1,
+    "mae": 0.6733741164207458,
+    "mse": 0.6107351183891296
+  },
+  {
+    "trial_name": "lr0.0005_dm128_el1_do0.1",
+    "config_path": "ray_results_iTr\\lr0.0005_dm128_el1_do0.1\\exp_conf_trial.py",
+    "lr": 0.0005,
+    "d_model": 128,
+    "e_layers": 1,
+    "dropout": 0.1,
+    "mae": 0.6758447885513306,
+    "mse": 0.614685595035553
+  },
+  {
+    "trial_name": "lr0.0005_dm128_el2_do0.1",
+    "config_path": "ray_results_iTr\\lr0.0005_dm128_el2_do0.1\\exp_conf_trial.py",
+    "lr": 0.0005,
+    "d_model": 128,
+    "e_layers": 2,
+    "dropout": 0.1,
+    "mae": 0.6752632856369019,
+    "mse": 0.6278442740440369
+  },
+  {
+    "trial_name": "lr0.0005_dm256_el1_do0.1",
+    "config_path": "ray_results_iTr\\lr0.0005_dm256_el1_do0.1\\exp_conf_trial.py",
+    "lr": 0.0005,
+    "d_model": 256,
+    "e_layers": 1,
+    "dropout": 0.1,
+    "mae": 0.6821129322052002,
+    "mse": 0.6322691440582275
+  },
+  {
+    "trial_name": "lr0.0005_dm256_el2_do0.1",
+    "config_path": "ray_results_iTr\\lr0.0005_dm256_el2_do0.1\\exp_conf_trial.py",
+    "lr": 0.0005,
+    "d_model": 256,
+    "e_layers": 2,
+    "dropout": 0.1,
+    "mae": 0.6817660927772522,
+    "mse": 0.6446080803871155
+  },
+  {
+    "trial_name": "lr0.001_dm128_el1_do0.1",
+    "config_path": "ray_results_iTr\\lr0.001_dm128_el1_do0.1\\exp_conf_trial.py",
+    "lr": 0.001,
+    "d_model": 128,
+    "e_layers": 1,
+    "dropout": 0.1,
+    "mae": 0.6847354173660278,
+    "mse": 0.6427730917930603
+  },
+  {
+    "trial_name": "lr0.001_dm128_el2_do0.1",
+    "config_path": "ray_results_iTr\\lr0.001_dm128_el2_do0.1\\exp_conf_trial.py",
+    "lr": 0.001,
+    "d_model": 128,
+    "e_layers": 2,
+    "dropout": 0.1,
+    "mae": 0.685192883014679,
+    "mse": 0.6549043655395508
+  },
+  {
+    "trial_name": "lr0.001_dm256_el1_do0.1",
+    "config_path": "ray_results_iTr\\lr0.001_dm256_el1_do0.1\\exp_conf_trial.py",
+    "lr": 0.001,
+    "d_model": 256,
+    "e_layers": 1,
+    "dropout": 0.1,
+    "mae": 0.6805187463760376,
+    "mse": 0.6373283267021179
+  },
+  {
+    "trial_name": "lr0.001_dm256_el2_do0.1",
+    "config_path": "ray_results_iTr\\lr0.001_dm256_el2_do0.1\\exp_conf_trial.py",
+    "lr": 0.001,
+    "d_model": 256,
+    "e_layers": 2,
+    "dropout": 0.1,
+    "mae": 0.687812089920044,
+    "mse": 0.6598495841026306
+  }
+]

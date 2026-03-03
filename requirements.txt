@@ -1,0 +1,99 @@
+# 重複除去済み requirements.txt
+# 元ファイルから pip freeze を3回 concat した重複エントリを除去
+# Python >= 3.10 推奨
+
+# --- core ML ---
+torch==2.7.1
+torchmetrics==1.8.0
+lightning==2.5.2
+pytorch-lightning==2.5.2
+lightning-utilities==0.15.0
+
+# --- data / compute ---
+numpy==2.2.6
+pandas==2.3.1
+scipy==1.15.3
+scikit-learn==1.7.1
+pyarrow==21.0.0
+
+# --- visualization ---
+matplotlib==3.10.5
+pillow==11.3.0
+
+# --- symbolic / math ---
+sympy==1.14.0
+mpmath==1.3.0
+
+# --- hyperparameter tuning ---
+ray==2.48.0
+optuna==4.4.0
+
+# --- utilities ---
+tqdm==4.67.1
+PyYAML==6.0.2
+colorama==0.4.6
+colorlog==6.9.0
+click==8.2.2
+packaging==25.0
+typing_extensions==4.14.1
+
+# --- networking / async ---
+requests==2.32.4
+aiohttp==3.12.15
+aiosignal==1.4.0
+aiohappyeyeballs==2.6.1
+async-timeout==5.0.1
+attrs==25.3.0
+frozenlist==1.7.0
+multidict==6.6.3
+propcache==0.3.2
+yarl==1.20.1
+chardet==5.2.0
+charset-normalizer==3.4.2
+certifi==2025.7.14
+idna==3.10
+urllib3==2.5.0
+
+# --- serialization ---
+protobuf==6.31.1
+msgpack==1.1.1
+
+# --- torch dependencies ---
+networkx==3.4.2
+fsspec==2025.7.0
+filelock==3.18.0
+Jinja2==3.1.6
+MarkupSafe==3.0.2
+sympy==1.14.0
+
+# --- date / time ---
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
+six==1.17.0
+
+# --- plotting deps ---
+contourpy==1.3.2
+cycler==0.12.1
+fonttools==4.59.0
+kiwisolver==1.4.8
+pyparsing==3.2.3
+
+# --- sklearn deps ---
+joblib==1.5.1
+threadpoolctl==3.6.0
+
+# --- database (optuna) ---
+SQLAlchemy==2.0.42
+alembic==1.16.4
+Mako==1.3.10
+greenlet==3.2.3
+
+# --- json schema ---
+jsonschema==4.25.0
+jsonschema-specifications==2025.4.1
+referencing==0.36.2
+rpds-py==0.26.0
+
+# --- misc ---
+tomli==2.2.1

@@ -1,0 +1,4 @@
+Layer,Formula,Address
+0,f(x) = 0.0002 + 0.0001x + 0.0002x^2 + 0.0002x^3,model.blocks.0.mok.experts.2.transform.coeffs
+1,f(x) = 0.0001 - 0.0000x + 0.0002x^2 + 0.0001x^3,model.blocks.1.mok.experts.2.transform.coeffs
+2,f(x) = -0.0000 - 0.0001x + 0.0001x^2 - 0.0003x^3,model.blocks.2.mok.experts.2.transform.coeffs
